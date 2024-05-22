@@ -1,0 +1,7 @@
+print("გობრონ წითლაური")
+print("liza-liza")
+print("andria")
+print("andri andria")
+print("giorgi geladze")
+print("tazo kutalia")
+print("luca guarnera")
