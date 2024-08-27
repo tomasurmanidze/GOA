@@ -1,0 +1,1 @@
+print(input("what is our parents age???"))
